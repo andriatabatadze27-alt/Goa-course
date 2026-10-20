@@ -1,0 +1,2 @@
+name = "Goa"
+print (name)
