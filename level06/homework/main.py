@@ -171,7 +171,3 @@ turtle.penup()
 
 turtle.goto(30, 192.5)
 turtle.color("white")
-turtle.write("GOA", align="center", font=("Arial", 12, "bold"))
-
-
-turtle.done()

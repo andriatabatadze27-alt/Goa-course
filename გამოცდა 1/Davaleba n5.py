@@ -1,2 +1,0 @@
-name = "Goa"
-print (name)
